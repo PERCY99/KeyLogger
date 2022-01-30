@@ -17,7 +17,6 @@ Keylogger app is a C++ application that has basic functionalities of key logging
 This keylogger supports the following characters and symbols:
 
 ```
-[ESC][F1][F2][F3][F4][F5][F6][F7][F8][F9][F10][F11][F12]
 `1234567890-=
 ~!@#$%^&*()_+
 qwertyuiop[]\asdfghjkl;'zxcvbnm,./
