@@ -32,7 +32,7 @@ QWERTYUIOP{}|ASDFGHJKL:"ZXCVBNM<>?
 ## Resources Used
 
 - [GetAsyncKeyState function](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getasynckeystate)
-- [Virtual-Key Codes](https://github.com/sepehrsohrabi/Decimal-Virtual-Key-Codes)
+- [Virtual-Key Codes](https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes)
 
 ## How to Run Keylogger [Using an IDE]
 
